@@ -3,7 +3,7 @@
 ## Escuela Superior de Ingeniería y Tecnología	 							  ##
 ## Grado en Ingeniería Informática				 					  ##
 ## Seguridad en Sistemas Informáticos			 						  ##
-## Fecha: 28/03/2016											  ##
+## Fecha: 28/03/2017											  ##
 ## Autor: Kevin Estévez Expósito (alu0100821390) 							  ##
 ## 													  ##
 ## Práctica 5: Cifrado AES/Rijndael			 						  ##
