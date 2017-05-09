@@ -1,10 +1,12 @@
-# Práctica 5: Cifrado AES/Rijndael
+# Seguridad en Sistemas Informáticos
 
-## Introducción
+## Práctica 5: Cifrado AES/Rijndael
+
+### Introducción
 
 Cifrado y descifrado de mensajes mediante el algoritmo AES/Rijndael.
 
-## Ejecución
+### Ejecución
 
 ~~~
     py rijndael.py
@@ -22,7 +24,7 @@ Ejemplo de bloque de texto original:
     00112233445566778899aabbccddeeff
 ~~~
 
-## Información personal
+### Información personal
 
 **Autor:** [Kevin Estévez Expósito](https://alu0100821390.github.io/)
 
